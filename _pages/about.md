@@ -36,6 +36,8 @@ My interests includes diffusion model, computer vision and physics.
 
 Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng & Mingli Song 
 
+- Accepted by IJCV.
+
 - to be updated
 
 # 🎖 Honors and Awards
