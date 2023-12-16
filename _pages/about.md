@@ -36,13 +36,9 @@ My interests includes diffusion model, computer vision and physics.
 
 Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng & Mingli Song 
 
-- Accepted by IJCV.
+</div>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com/), A, B, C, **CVPR 2020**
+</div>
 
 # 🎖 Honors and Awards
 - *2023.06* Outstanding graduate of Zhejiang University. 
