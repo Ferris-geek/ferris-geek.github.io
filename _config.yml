@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Fangyuan MAO / Mockingbird"
-description              : "wubba lubba dub dub"
+title                    : "Mockingbird"
+description              : "Wubba lubba dub dub"
 repository               : "Ferris-geek/ferris-geek.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fangyuan Mao"
   avatar           : "images/touxiang.JPG"
-  bio              : "Institute of Computing Technology(ICT), Chinese Acadamy of Sciences(CAS)"
+  bio              : "Institute of Computing Technology, Chinese Acadamy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : https://dblp.org/pid/350/0429.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
