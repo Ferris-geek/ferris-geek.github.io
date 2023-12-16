@@ -38,14 +38,11 @@ Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng & 
 
 - Accepted by IJCV.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/paper_dcsn.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
 
-[Disassembling Convolutional Segmentation Network](https://link.springer.com/article/10.1007/s11263-023-01776-z)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
-Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng & Mingli Song 
-
-- Accepted by IJCV.
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com/), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2023.06* Outstanding graduate of Zhejiang University. 
