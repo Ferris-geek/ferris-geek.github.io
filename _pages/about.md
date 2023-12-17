@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a student at [ANS Group](https://meridiancas.github.io/ans/), Institute of Computeing Technology, Chinese Academy of Sciences, advised by [Yu Hu](https://people.ucas.edu.cn/~huyu). 
+I am currently a master student at [ANS Group](https://meridiancas.github.io/ans/), [Institute of Computeing Technology](http://www.ict.cas.cn), [Chinese Academy of Sciences](https://www.cas.cn)(中国科学院计算技术研究所), advised by [Yu Hu](https://people.ucas.edu.cn/~huyu). 
 
-I graduated from Zhejiang University with a geophysics bachelor’s degree, advised by [BoYang](https://person.zju.edu.cn/boyang) and [Yixian Xu](https://person.zju.edu.cn/xyx/759477.html).
+I graduated from Zhejiang University with a geophysics bachelor’s degree, advised by [BoYang](https://person.zju.edu.cn/boyang) and [Yixian Xu](https://person.zju.edu.cn/xyx/759477.html). 
 
 My interests includes diffusion model, computer vision and physics.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 no news.
+- *2023.12*: &nbsp;🎉🎉 no news.
 
 # 📝 Publications 
 
