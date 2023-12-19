@@ -23,6 +23,8 @@ I graduated from Zhejiang University with a geophysics bachelor’s degree, advi
 
 My interests includes diffusion model, computer vision and physics.
 
+Email: maofangyuan23s[at]ict[dot]ac[doc]cn, fangyuanmaocs[at]gmail[dot]com
+
 
 # 🔥 News
 - *2023.12*: &nbsp;🎉🎉 no news.
