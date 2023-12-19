@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mockingbird"
-description              : "Wubba lubba dub dub"
+description              : "The truth shall set you free"
 repository               : "Ferris-geek/ferris-geek.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Fangyuan Mao (毛方圆)"
+  name             : "Fangyuan Mao\n毛方圆"
   avatar           : "images/touxiang.JPG"
   bio              : "ICT, CAS"
   location         : "Beijing, China"
