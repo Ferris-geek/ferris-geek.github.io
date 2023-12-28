@@ -21,6 +21,8 @@ I am currently a master student at [ANS Group](https://meridiancas.github.io/ans
 
 I graduated from Zhejiang University with a geophysics bachelor’s degree, advised by [BoYang](https://person.zju.edu.cn/boyang) and [Yixian Xu](https://person.zju.edu.cn/xyx/759477.html). 
 
+It is a long and fun story that change my major.
+
 My interests includes diffusion model, computer vision and physics.
 
 Email: maofangyuan23s[at]ict[dot]ac[doc]cn, fangyuanmaocs[at]gmail[dot]com
