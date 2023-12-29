@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mockingbird"
-description              : "The truth shall set you free"
+description              : "Keep imagining"
 repository               : "Ferris-geek/ferris-geek.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fangyuan Mao 毛方圆"
   avatar           : "images/touxiang.JPG"
-  bio              : "Keep imagining"
+  bio              : "ICT, CAS"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

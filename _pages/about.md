@@ -17,19 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master student at [ANS Group](https://meridiancas.github.io/ans/), [Institute of Computeing Technology](http://www.ict.cas.cn), [Chinese Academy of Sciences](https://www.cas.cn)(中国科学院计算技术研究所), advised by [Yu Hu](https://people.ucas.edu.cn/~huyu). 
+I am currently a master student at [ANS Group](https://meridiancas.github.io/index.html), [Institute of Computeing Technology](http://www.ict.cas.cn), [Chinese Academy of Sciences](https://www.cas.cn)(中国科学院计算技术研究所), advised by [Yu Hu](https://people.ucas.edu.cn/~huyu). 
 
 I graduated from Zhejiang University with a geophysics bachelor’s degree, advised by [BoYang](https://person.zju.edu.cn/boyang) and [Yixian Xu](https://person.zju.edu.cn/xyx/759477.html). 
 
-It is a long and fun story that change my major.
+I believe math and physics are the answers to artificial intelligence. I am trying to integrate more math knowledge with my research.
 
 My interests includes diffusion model, computer vision and physics.
 
-Email: maofangyuan23s[at]ict[dot]ac[doc]cn, fangyuanmaocs[at]gmail[dot]com
+Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 no news.
+- *2024.01*: &nbsp;🎉🎉 Happy new year.
 
 # 📝 Publications 
 
