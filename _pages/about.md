@@ -29,8 +29,6 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Happy new year.
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/paper_dcsn.png' alt="sym" width="100%"></div></div>
