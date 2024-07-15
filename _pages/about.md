@@ -32,7 +32,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Arxiv</div><img src='images/paper_pid.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/paper_pid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PID: Physics-Informed Diffusion Model for Infrared Image Generation](https://arxiv.org/abs/2407.09299)
