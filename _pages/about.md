@@ -58,6 +58,13 @@ Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng, M
 
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/paper_ADUE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Autonomous Driving in Unstructured Environments: How Far Have We Come?](https://arxiv.org/abs/2410.07701)
+
+Chen Min, Shubin Si, Xu Wang, Hanzhang Xue, Weizhong Jiang, Yang Liu, Juan Wang, Qingtian Zhu, Qi Zhu, Lun Luo, Fanjie Kong, Jinyu Miao, Xudong Cai, Shuai An, Wei Li, Jilin Mei, Tong Sun, Heng Zhai, Qifeng Liu, Fangzhou Zhao, Liang Chen, Shuai Wang, Erke Shang, Linzhi Shang, Kunlong Zhao, Fuyang Li, Hao Fu, Lei Jin, Jian Zhao, **Fangyuan Mao**, Zhipeng Xiao, Chengyang Li, Bin Dai, Dawei Zhao, Liang Xiao, Yiming Nie, Yu Hu, Xuelong Li
+
 # 🎖 Honors and Awards
 
 - *2023.06* Outstanding graduate of Zhejiang University.
