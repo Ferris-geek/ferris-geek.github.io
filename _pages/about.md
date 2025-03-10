@@ -16,9 +16,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master student at [ANS Group](https://meridiancas.github.io/index.html), [Institute of Computeing Technology](http://www.ict.cas.cn), [Chinese Academy of Sciences](https://www.cas.cn)(中国科学院计算技术研究所), advised by [Yu Hu](https://people.ucas.edu.cn/~huyu).
+I am currently a master student at [ANS Group](https://meridiancas.github.io/index.html), [Institute of Computeing Technology](http://www.ict.cas.cn), [Chinese Academy of Sciences](https://www.cas.cn)(中国科学院计算技术研究所), advised by [Yu Hu](https://people.ucas.edu.cn/~huyu) and [Jilin Mei](https://scholar.google.com/citations?user=WOQhmr8AAAAJ&hl=en) .
 
-I graduated from Zhejiang University with a geophysics bachelor’s degree, advised by [BoYang](https://person.zju.edu.cn/boyang) and [Yixian Xu](https://person.zju.edu.cn/xyx/759477.html).
+I graduated from Zhejiang University (浙江大学) with a geophysics bachelor’s degree, advised by [BoYang](https://person.zju.edu.cn/boyang) and [Yixian Xu](https://person.zju.edu.cn/xyx/759477.html).
 
 I believe math and physics are the answers to artificial intelligence. I am trying to integrate more math knowledge with my research.
 
@@ -69,9 +69,9 @@ Chen Min, Shubin Si, Xu Wang, Hanzhang Xue, Weizhong Jiang, Yang Liu, Juan Wang,
 
 </div>
 
-
 # 🎖 Honors and Awards
 
+- *2025.01* Yifangda Financial Technology Master's Award.
 - *2023.06* Outstanding graduate of Zhejiang University.
 - *2020.09 and 2021.09* Zhejiang Provincial Government Scholarship.
 
