@@ -28,7 +28,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 # 🔥 News
 
-- 2025.05, one paper us accepted by Pattern Recognition!
+- 2025.05, one paper is accepted by Pattern Recognition!
 - 2023.04, one paper is accepted by IJCV!
 
 # 📝 Publications
