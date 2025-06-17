@@ -46,7 +46,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BDES 2025</div><img src='images/paper_BDES.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BDES 2025</div><img src='images/paper_BDES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Recovering Missing Regions of Earth Magnetic Anomaly Grid data (EMAG2) Using RePaint based on Diffusion Model
