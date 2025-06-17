@@ -60,12 +60,25 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 </div>
 
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">IROS 2025</div><img src='images/paper_IROS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving
+
+Fuyang Liu, Jilin Mei*, **Fangyuan Mao**, Yu Hu, Chen Min, Yan Xing
+
+* Accepted by Intelligent Robots and Systems
+
+</div>
+
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/paper_dcsn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Disassembling Convolutional Segmentation Network](https://link.springer.com/article/10.1007/s11263-023-01776-z)
 
-Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng*, Mingli Song*
+Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng, Mingli Song*
 
 - Accepted by IJCV 2023.
 
