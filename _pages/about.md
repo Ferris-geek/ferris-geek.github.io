@@ -38,7 +38,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 [PID: Physics-Informed Diffusion Model for Infrared Image Generation](https://doi.org/10.1016/j.patcog.2025.111816)
 
-**Fangyuan Mao**, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu
+**Fangyuan Mao**, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu*
 
 - Accepted by Pattern Recognition 2025.
 
@@ -49,9 +49,9 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">BDES 2025</div><img src='images/paper_BDES.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Recovering Missing Regions of Earth Magnetic Anomaly Grid data (EMAG2) Using RePaint based on Diffusion Model
+[Recovering Missing Regions of Earth Magnetic Anomaly Grid data (EMAG2) Using RePaint based on Diffusion Model](https://doi.org/10.1016/j.bdes.2025.100004)
 
-**Fangyuan Mao**, Bo Yang, Shenyao Jin
+**Fangyuan Mao**, Bo Yang*, Shenyao Jin
 
 * Accepted by Big Data and Earth System 2025.
 * [Project Link](https://github.com/fangyuanmao/EMAG2-Completion)
@@ -65,7 +65,7 @@ Recovering Missing Regions of Earth Magnetic Anomaly Grid data (EMAG2) Using ReP
 
 [Disassembling Convolutional Segmentation Network](https://link.springer.com/article/10.1007/s11263-023-01776-z)
 
-Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng, Mingli Song
+Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng*, Mingli Song*
 
 - Accepted by IJCV 2023.
 
