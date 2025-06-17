@@ -60,7 +60,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">IROS 2025</div><img src='images/paper_IROS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">IROS 2025</div><img src='images/paper_iros.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving
