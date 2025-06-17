@@ -67,7 +67,7 @@ CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Auton
 
 Fuyang Liu, Jilin Mei*, **Fangyuan Mao**, Yu Hu, Chen Min, Yan Xing
 
-* Accepted by Intelligent Robots and Systems
+* Accepted by Intelligent Robots and Systems 2025
 
 </div>
 
