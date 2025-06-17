@@ -36,11 +36,25 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/paper_pid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PID: Physics-Informed Diffusion Model for Infrared Image Generation](https://arxiv.org/abs/2407.09299)
+[PID: Physics-Informed Diffusion Model for Infrared Image Generation](https://doi.org/10.1016/j.patcog.2025.111816)
 
 **Fangyuan Mao**, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu
 
 - Accepted by Pattern Recognition 2025.
+
+</div>
+
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BDES 2025</div><img src='images/paper_BDES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Recovering Missing Regions of Earth Magnetic Anomaly Grid data (EMAG2) Using RePaint based on Diffusion Model
+
+**Fangyuan Mao**, Bo Yang, Shenyao Jin
+
+* Accepted by Big Data and Earth System 2025.
+* [Project Link](https://github.com/fangyuanmao/EMAG2-Completion)
 
 </div>
 
