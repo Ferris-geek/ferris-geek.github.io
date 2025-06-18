@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Fangyuan Mao<br />毛方圆"
-  avatar           : "images/touxiang.JPG"
+  avatar           : "images/touxiang.jpg"
   bio              : "ICT, CAS"
   location         : "Beijing, China"
   employer         :
