@@ -33,12 +33,12 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">BDES 2025</div><img src='images/paper_omnieffects.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv 2025</div><img src='images/paper_omnieffects.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](https://arxiv.org/abs/2508.07981v1)
 
-**Fangyuan Mao$^\dagger$**, Aiming Hao$^\dagger$, Jintao Chen, Dongxia Liu, Xiaokun Feng, Jiashu Zhu, Meiqi Wu, Chubin Chen, Jiahong Wu, Xiangxiang Chu
+**Fangyuan Mao*$^\dagger$***, Aiming Hao$^\dagger$, Jintao Chen, Dongxia Liu, Xiaokun Feng, Jiashu Zhu, Meiqi Wu, Chubin Chen, Jiahong Wu, Xiangxiang Chu
 
 - [[Paper]](https://arxiv.org/abs/2508.07981v1)[[Project]](https://amap-ml.github.io/Omni-Effects.github.io/)[[Code]](https://github.com/AMAP-ML/Omni-Effects)[[HuggingFace]](https://huggingface.co/GD-ML/Omni-Effects)[[Dataset]](https://huggingface.co/datasets/GD-ML/Omni-VFX)
 
