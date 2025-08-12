@@ -63,7 +63,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Under Review</div><img src='images/paper_univ.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
-UNIV: Unified Foundation Model for Infrared and Visible Modalities
+**UNIV**: Unified Foundation Model for Infrared and Visible Modalities
 
 **Fangyuan Mao$^\dagger$**, Shuo Wang$^\dagger$, Jilin Mei, Chen Min, Shun Lu, Fuyang Liu, Yu Hu 
 
@@ -85,19 +85,6 @@ UNIV: Unified Foundation Model for Infrared and Visible Modalities
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">IROS 2025</div><img src='images/paper_iros.png' alt="sym" width="70%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving
-
-Fuyang Liu, Jilin Mei*, **Fangyuan Mao**, Yu Hu, Chen Min, Yan Xing
-
-- Accepted by Intelligent Robots and Systems 2025
-
-</div>
-
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/paper_dcsn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -107,6 +94,19 @@ Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng, M
 
 - Accepted by International Journal of Computer Vision 2023.
 - [[Paper]](https://link.springer.com/article/10.1007/s11263-023-01776-z)
+
+</div>
+
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">IROS 2025</div><img src='images/paper_iros.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving
+
+Fuyang Liu, Jilin Mei*, **Fangyuan Mao**, Yu Hu, Chen Min, Yan Xing
+
+- Accepted by Intelligent Robots and Systems 2025
 
 </div>
 
