@@ -33,6 +33,19 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 # 📝 Publications
 
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/paper_omnieffects.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+
+<!-- [Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](https://arxiv.org/abs/2508.07981v1)
+
+**Fangyuan Mao$^\dagger$**, Aiming Hao$^\dagger$, Jintao Chen, Dongxia Liu, Xiaokun Feng, Jiashu Zhu, Meiqi Wu, Chubin Chen, Jiahong Wu, Xiangxiang Chu
+
+- [[Paper]](https://arxiv.org/abs/2508.07981v1)[[Project]](https://amap-ml.github.io/Omni-Effects.github.io/)[[Code]](https://github.com/AMAP-ML/Omni-Effects)[[HuggingFace]](https://huggingface.co/GD-ML/Omni-Effects)[[Dataset]](https://huggingface.co/datasets/GD-ML/Omni-VFX)
+
+</div>
+
+</div> -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/paper_pid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,6 +54,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 **Fangyuan Mao**, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu*
 
 - Accepted by Pattern Recognition 2025.
+- [[Paper]](https://doi.org/10.1016/j.patcog.2025.111816)[[Code]](https://github.com/fangyuanmao/PID)
 
 </div>
 
@@ -53,8 +67,8 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 **Fangyuan Mao**, Bo Yang*, Shenyao Jin
 
-* Accepted by Big Data and Earth System 2025.
-* [Project Link](https://github.com/fangyuanmao/EMAG2-Completion)
+- Accepted by Big Data and Earth System 2025.
+- [[Paper]](https://doi.org/10.1016/j.bdes.2025.100004)[[Code]](https://github.com/fangyuanmao/EMAG2-Completion)
 
 </div>
 
@@ -67,7 +81,7 @@ CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Auton
 
 Fuyang Liu, Jilin Mei*, **Fangyuan Mao**, Yu Hu, Chen Min, Yan Xing
 
-* Accepted by Intelligent Robots and Systems 2025
+- Accepted by Intelligent Robots and Systems 2025
 
 </div>
 
@@ -81,6 +95,7 @@ Fuyang Liu, Jilin Mei*, **Fangyuan Mao**, Yu Hu, Chen Min, Yan Xing
 Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng, Mingli Song*
 
 - Accepted by International Journal of Computer Vision 2023.
+- [[Paper]](https://link.springer.com/article/10.1007/s11263-023-01776-z)
 
 </div>
 
