@@ -38,7 +38,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 [Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](https://arxiv.org/abs/2508.07981v1)
 
-**Fangyuan Mao*$^\dagger$***, Aiming Hao$^\dagger$, Jintao Chen, Dongxia Liu, Xiaokun Feng, Jiashu Zhu, Meiqi Wu, Chubin Chen, Jiahong Wu, Xiangxiang Chu
+**Fangyuan Mao$^\dagger$**, Aiming Hao$^\dagger$, Jintao Chen, Dongxia Liu, Xiaokun Feng, Jiashu Zhu, Meiqi Wu, Chubin Chen, Jiahong Wu, Xiangxiang Chu
 
 - [[Paper]](https://arxiv.org/abs/2508.07981v1)[[Project]](https://amap-ml.github.io/Omni-Effects.github.io/)[[Code]](https://github.com/AMAP-ML/Omni-Effects)[[HuggingFace]](https://huggingface.co/GD-ML/Omni-Effects)[[Dataset]](https://huggingface.co/datasets/GD-ML/Omni-VFX)
 
@@ -55,6 +55,17 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 - Accepted by Pattern Recognition 2025.
 - [[Paper]](https://doi.org/10.1016/j.patcog.2025.111816)[[Code]](https://github.com/fangyuanmao/PID)
+
+</div>
+
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Under Review</div><img src='images/paper_univ.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+UNIV: Unified Foundation Model for Infrared and Visible Modalities
+
+**Fangyuan Mao$^\dagger$**, Shuo Wang$^\dagger$, Jilin Mei, Chen Min, Shun Lu, Fuyang Liu, Yu Hu 
 
 </div>
 
