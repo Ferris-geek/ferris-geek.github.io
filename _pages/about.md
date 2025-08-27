@@ -22,12 +22,14 @@ I graduated from Zhejiang University (浙江大学) with a geophysics bachelor�
 
 I believe math and physics are the answers to artificial intelligence. I am trying to integrate more math knowledge with my research.
 
-My interests includes diffusion model, computer vision and physics.
+My interests includes generative model, computer vision and autonomous driving.
 
 Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 # 🔥 News
 
+- 2025.08, we release *Omni-Effects* for composite visual effects video generation!
+- 2025.05, one paper is accepted by Big Data and Earth System!
 - 2025.05, one paper is accepted by Pattern Recognition!
 - 2023.04, one paper is accepted by IJCV!
 
@@ -67,6 +69,9 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 **Fangyuan Mao$^\dagger$**, Shuo Wang$^\dagger$, Jilin Mei, Chen Min, Shun Lu, Fuyang Liu, Yu Hu 
 
+- Under Review
+- [[Code]](https://github.com/fangyuanmao/UNIV)
+
 </div>
 
 </div>
@@ -102,11 +107,12 @@ Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng, M
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">IROS 2025</div><img src='images/paper_iros.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving
+[CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving](https://www.arxiv.org/abs/2508.13485)
 
 Fuyang Liu, Jilin Mei*, **Fangyuan Mao**, Yu Hu, Chen Min, Yan Xing
 
 - Accepted by Intelligent Robots and Systems 2025
+-[[Paper]](https://www.arxiv.org/abs/2508.13485)[[Code]](https://github.com/charlesuv/corenet)
 
 </div>
 
