@@ -28,14 +28,14 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 # 🔥 News
 
-- 2025.08, we release *Omni-Effects* for composite visual effects video generation!
+<!-- - 2025.08, we release *Omni-Effects* for composite visual effects video generation! -->
 - 2025.05, one paper is accepted by Big Data and Earth System!
 - 2025.05, one paper is accepted by Pattern Recognition!
 - 2023.04, one paper is accepted by IJCV!
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv 2025</div><img src='images/paper_omnieffects.png' alt="sym" width="70%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv 2025</div><img src='images/paper_omnieffects.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [*Omni-Effects*: Unified and Spatially-Controllable Visual Effects Generation](https://arxiv.org/abs/2508.07981v1)
@@ -49,7 +49,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/paper_pid.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
 [PID: Physics-Informed Diffusion Model for Infrared Image Generation](https://doi.org/10.1016/j.patcog.2025.111816)
 
