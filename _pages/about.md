@@ -112,7 +112,20 @@ Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng, M
 Fuyang Liu, Jilin Mei*, **Fangyuan Mao**, Yu Hu, Chen Min, Yan Xing
 
 - Accepted by Intelligent Robots and Systems 2025
--[[Paper]](https://www.arxiv.org/abs/2508.13485)[[Code]](https://github.com/charlesuv/corenet)
+- [[Paper]](https://www.arxiv.org/abs/2508.13485)[[Code]](https://github.com/charlesuv/corenet)
+
+</div>
+
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv 2025</div><img src='images/paper_s2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[$S^2$-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models](https://arxiv.org/abs/2508.12880)
+
+Chubin Chen, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, **Fangyuan Mao**, Jiahong Wu, Xiangxiang Chu, Xiu Li
+
+- [[Paper]](https://arxiv.org/abs/2508.12880)[[Project]](https://s2guidance.github.io/)[[Code]](https://github.com/AMAP-ML/S2-Guidance)
 
 </div>
 
