@@ -131,6 +131,19 @@ Chubin Chen, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, **Fangyuan Mao**, 
 
 </div>
 
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv 2025</div><img src='images/paper_is.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints](https://arxiv.org/abs/2510.14847v1)
+
+Meiqi Wu, Jiashu Zhu, Xiaokun Feng, Chubin Chen, Chen Zhu, Bingze Song, **Fangyuan Mao**, Jiahong Wu, Xiangxiang Chu, Kaiqi Huang
+
+- [[Paper]](https://arxiv.org/abs/2510.14847v1)[[Code]](https://github.com/AMAP-ML/ImagerySearch)
+
+</div>
+
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/paper_ADUE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
