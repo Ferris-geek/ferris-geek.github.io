@@ -145,6 +145,17 @@ Shun Lu, **Fangyuan Mao**, Longxing Yang, Zihao Sun, Jilin Mei, Jianchao Tan, Ch
 
 </div>
 
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Under Review</div><img src='images/paper_MIGA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MIGA: Make Train-Free Infinite Frame Generation Great Again for Consistent Long Videos
+
+Xiaokun Feng, Jiashu Zhu, Meiqi Wu, Chubin Chen, **Fangyuan Mao**, Haiyang Guo, Jiahong Wu, Xiangxiang Chu, Kaiqi Huang 
+
+</div>
+
+</div>
+
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv 2025</div><img src='images/paper_s2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -153,17 +164,6 @@ Shun Lu, **Fangyuan Mao**, Longxing Yang, Zihao Sun, Jilin Mei, Jianchao Tan, Ch
 Chubin Chen, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, **Fangyuan Mao**, Jiahong Wu, Xiangxiang Chu, Xiu Li
 
 - [[Paper]](https://arxiv.org/abs/2508.12880)[[Project]](https://s2guidance.github.io/)[[Code]](https://github.com/AMAP-ML/S2-Guidance)
-
-</div>
-
-</div>
-
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Under Review</div><img src='images/paper_MIGA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-MIGA: Make Train-Free Infinite Frame Generation Great Again for Consistent Long Videos
-
-Xiaokun Feng, Jiashu Zhu, Meiqi Wu, Chubin Chen, **Fangyuan Mao**, Haiyang Guo, Jiahong Wu, Xiangxiang Chu, Kaiqi Huang 
 
 </div>
 
