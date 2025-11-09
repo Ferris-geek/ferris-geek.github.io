@@ -36,7 +36,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">AAAI 2026</div><img src='images/paper_VFX.GIF' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">AAAI 2026</div><img src='images/paper_VFX.GIF' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [*Omni-Effects*: Unified and Spatially-Controllable Visual Effects Generation](https://arxiv.org/abs/2508.07981v1)
