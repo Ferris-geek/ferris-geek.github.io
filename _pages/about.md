@@ -50,7 +50,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/paper_pid.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;><div><div class="badge">Pattern Recognition</div><img src='images/paper_pid.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**PID**: Physics-Informed Diffusion Model for Infrared Image Generation](https://doi.org/10.1016/j.patcog.2025.111816)
@@ -78,7 +78,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">BDES 2025</div><img src='images/paper_BDES.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">BDES 2025</div><img src='images/paper_BDES.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Recovering Missing Regions of Earth Magnetic Anomaly Grid data (EMAG2) Using RePaint based on Diffusion Model](https://doi.org/10.1016/j.bdes.2025.100004)
@@ -106,7 +106,7 @@ Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng, M
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">IROS 2025</div><img src='images/paper_iros.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">IROS 2025</div><img src='images/paper_iros.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CORENet**: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving](https://www.arxiv.org/abs/2508.13485)
