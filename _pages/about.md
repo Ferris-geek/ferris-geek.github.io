@@ -36,7 +36,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">AAAI 2026</div><img src='images/paper_omnieffects.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">AAAI 2026</div><img src='images/paper_VFX.GIF' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [*Omni-Effects*: Unified and Spatially-Controllable Visual Effects Generation](https://arxiv.org/abs/2508.07981v1)
@@ -50,7 +50,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/paper_pid.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/paper_pid.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**PID**: Physics-Informed Diffusion Model for Infrared Image Generation](https://doi.org/10.1016/j.patcog.2025.111816)
@@ -64,7 +64,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv</div><img src='images/paper_univ.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv</div><img src='images/paper_univ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [**UNIV**: Unified Foundation Model for Infrared and Visible Modalities](https://arxiv.org/abs/2509.15642)
@@ -123,7 +123,7 @@ Fuyang Liu, Jilin Mei*, **Fangyuan Mao**, Yu Hu, Chen Min, Yan Xing
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">AAAI 2026</div><img src='images/paper_is.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints](https://arxiv.org/abs/2510.14847v1)
+[**ImagerySearch**: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints](https://arxiv.org/abs/2510.14847v1)
 
 Meiqi Wu, Jiashu Zhu, Xiaokun Feng, Chubin Chen, Chen Zhu, Bingze Song, **Fangyuan Mao**, Jiahong Wu, Xiangxiang Chu, Kaiqi Huang
 
@@ -150,7 +150,7 @@ Chubin Chen, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, **Fangyuan Mao**, 
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Under Review</div><img src='images/paper_MIGA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MIGA: Make Train-Free Infinite Frame Generation Great Again for Consistent Long Videos]
+MIGA: Make Train-Free Infinite Frame Generation Great Again for Consistent Long Videos
 
 Xiaokun Feng, Jiashu Zhu, Meiqi Wu, Chubin Chen, **Fangyuan Mao**, Haiyang Guo, Jiahong Wu, Xiangxiang Chu, Kaiqi Huang 
 
