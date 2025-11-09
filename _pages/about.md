@@ -134,6 +134,17 @@ Meiqi Wu, Jiashu Zhu, Xiaokun Feng, Chubin Chen, Chen Zhu, Bingze Song, **Fangyu
 
 </div>
 
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Under Review</div><img src='images/paper_SEA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SEA: Hierarchically Searching Efficient Adapters for Pre-trained Models
+
+Shun Lu, **Fangyuan Mao**, Longxing Yang, Zihao Sun, Jilin Mei, Jianchao Tan, Chengru Song, Yu Hu 
+
+</div>
+
+</div>
+
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv 2025</div><img src='images/paper_s2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
