@@ -120,7 +120,7 @@ Fuyang Liu, Jilin Mei*, **Fangyuan Mao**, Yu Hu, Chen Min, Yan Xing
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">AAAI 2026</div><img src='images/paper_is.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">AAAI 2026</div><img src='images/paper_imagrysearch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ImagerySearch**: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints](https://arxiv.org/abs/2510.14847v1)
