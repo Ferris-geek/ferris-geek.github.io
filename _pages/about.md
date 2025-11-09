@@ -28,6 +28,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 # 🔥 News
 
+- 2025.11, 2 papers are accepted by AAAI 2026!
 - 2025.08, we release *Omni-Effects* for composite visual effects video generation!
 - 2025.05, one paper is accepted by Big Data and Earth System!
 - 2025.05, one paper is accepted by Pattern Recognition!
@@ -35,34 +36,35 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv 2025</div><img src='images/paper_omnieffects.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">AAAI 2026</div><img src='images/paper_omnieffects.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [*Omni-Effects*: Unified and Spatially-Controllable Visual Effects Generation](https://arxiv.org/abs/2508.07981v1)
 
 **Fangyuan Mao$^\dagger$**, Aiming Hao$^\dagger$, Jintao Chen, Dongxia Liu, Xiaokun Feng, Jiashu Zhu, Meiqi Wu, Chubin Chen, Jiahong Wu, Xiangxiang Chu
 
+- Accepted by AAAI 2026.
 - [[Paper]](https://arxiv.org/abs/2508.07981v1)[[Project]](https://amap-ml.github.io/Omni-Effects.github.io/)[[Code]](https://github.com/AMAP-ML/Omni-Effects)[[HuggingFace]](https://huggingface.co/GD-ML/Omni-Effects)[[Dataset]](https://huggingface.co/datasets/GD-ML/Omni-VFX)
 
 </div>
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/paper_pid.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/paper_pid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PID: Physics-Informed Diffusion Model for Infrared Image Generation](https://doi.org/10.1016/j.patcog.2025.111816)
+[**PID**: Physics-Informed Diffusion Model for Infrared Image Generation](https://doi.org/10.1016/j.patcog.2025.111816)
 
 **Fangyuan Mao**, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu*
 
-- Accepted by Pattern Recognition 2025.
+- Accepted by Pattern Recognition (JCR Q1).
 - [[Paper]](https://doi.org/10.1016/j.patcog.2025.111816)[[Code]](https://github.com/fangyuanmao/PID)
 
 </div>
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Under Review</div><img src='images/paper_univ.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv</div><img src='images/paper_univ.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [**UNIV**: Unified Foundation Model for Infrared and Visible Modalities](https://arxiv.org/abs/2509.15642)
@@ -107,12 +109,26 @@ Kaiwen Hu, Jing Gao, **Fangyuan Mao**, Xinhui Song, Lechao Cheng, Zunlei Feng, M
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">IROS 2025</div><img src='images/paper_iros.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving](https://www.arxiv.org/abs/2508.13485)
+[**CORENet**: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving](https://www.arxiv.org/abs/2508.13485)
 
 Fuyang Liu, Jilin Mei*, **Fangyuan Mao**, Yu Hu, Chen Min, Yan Xing
 
 - Accepted by Intelligent Robots and Systems 2025
 - [[Paper]](https://www.arxiv.org/abs/2508.13485)[[Code]](https://github.com/charlesuv/corenet)
+
+</div>
+
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">AAAI 2026</div><img src='images/paper_is.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints](https://arxiv.org/abs/2510.14847v1)
+
+Meiqi Wu, Jiashu Zhu, Xiaokun Feng, Chubin Chen, Chen Zhu, Bingze Song, **Fangyuan Mao**, Jiahong Wu, Xiangxiang Chu, Kaiqi Huang
+
+- Accepted by AAAI 2026.
+- [[Paper]](https://arxiv.org/abs/2510.14847v1)[[Code]](https://github.com/AMAP-ML/ImagerySearch)
 
 </div>
 
@@ -131,14 +147,25 @@ Chubin Chen, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, **Fangyuan Mao**, 
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv 2025</div><img src='images/paper_is.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Under Review</div><img src='images/paper_MIGA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints](https://arxiv.org/abs/2510.14847v1)
+[MIGA: Make Train-Free Infinite Frame Generation Great Again for Consistent Long Videos]
 
-Meiqi Wu, Jiashu Zhu, Xiaokun Feng, Chubin Chen, Chen Zhu, Bingze Song, **Fangyuan Mao**, Jiahong Wu, Xiangxiang Chu, Kaiqi Huang
+Xiaokun Feng, Jiashu Zhu, Meiqi Wu, Chubin Chen, **Fangyuan Mao**, Haiyang Guo, Jiahong Wu, Xiangxiang Chu, Kaiqi Huang 
 
-- [[Paper]](https://arxiv.org/abs/2510.14847v1)[[Code]](https://github.com/AMAP-ML/ImagerySearch)
+</div>
+
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv 2025</div><img src='images/paper_ORAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Advancing Off-Road Autonomous Driving: The Large-Scale ORAD-3D Dataset and Comprehensive Benchmarks](https://arxiv.org/pdf/2510.16500)
+
+Chubin Chen, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, **Fangyuan Mao**, Jiahong Wu, Xiangxiang Chu, Xiu Li
+
+- [[Paper]](https://arxiv.org/pdf/2510.16500)[[Code]](https://github.com/chaytonmin/ORAD-3D)
 
 </div>
 
@@ -157,9 +184,9 @@ Chen Min, Shubin Si, Xu Wang, Hanzhang Xue, Weizhong Jiang, Yang Liu, Juan Wang,
 
 # 🎖 Honors and Awards
 
-- *2025.01* Yifangda Financial Technology Master's Award.
+- *2025.01* Yifangda Financial Technology Master's Award (Top 2%).
 - *2023.06* Outstanding graduate of Zhejiang University.
-- *2020.09 and 2021.09* Zhejiang Provincial Government Scholarship.
+- *2020.09 and 2021.09* Zhejiang Provincial Government Scholarship (Top 3%).
 
 # 📖 Educations
 
