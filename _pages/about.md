@@ -174,7 +174,7 @@ Chubin Chen, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, **Fangyuan Mao**, 
 
 [Advancing Off-Road Autonomous Driving: The Large-Scale ORAD-3D Dataset and Comprehensive Benchmarks](https://arxiv.org/pdf/2510.16500)
 
-Chubin Chen, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, **Fangyuan Mao**, Jiahong Wu, Xiangxiang Chu, Xiu Li
+Chen Min, Jilin Mei, Heng Zhai, Shuai Wang, Tong Sun, Fanjie Kong, Haoyang Li, **Fangyuan Mao**, Fuyang Liu, Shuo Wang, Yiming Nie, Qi Zhu, Liang Xiao, Dawei Zhao, Yu Hu
 
 - [[Paper]](https://arxiv.org/pdf/2510.16500)[[Code]](https://github.com/chaytonmin/ORAD-3D)
 
