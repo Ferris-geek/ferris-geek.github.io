@@ -64,12 +64,12 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv</div><img src='images/paper_univ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv</div><img src='images/paper_UNIV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [**UNIV**: Unified Foundation Model for Infrared and Visible Modalities](https://arxiv.org/abs/2509.15642)
 
-**Fangyuan Mao$^\dagger$**, Shuo Wang$^\dagger$, Jilin Mei, Chen Min, Shun Lu, Fuyang Liu, Yu Hu 
+**Fangyuan Mao$^\dagger$**, Shuo Wang$^\dagger$, Jilin Mei, Shun Lu, Chen Min, Fuyang Liu, Xiaokun Feng, Meiqi Wu, Yu Hu
 
 - Under Review
 - [[Paper]](https://arxiv.org/abs/2509.15642)[[Code]](https://github.com/fangyuanmao/UNIV)
