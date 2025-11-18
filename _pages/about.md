@@ -64,7 +64,7 @@ Email: maofangyuan23s[at]ict[dot]ac[dot]cn, fangyuanmaocs[at]gmail[dot]com
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv</div><img src='images/paper_UNIV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Arxiv</div><img src='images/paper_univ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [**UNIV**: Unified Foundation Model for Infrared and Visible Modalities](https://arxiv.org/abs/2509.15642)
