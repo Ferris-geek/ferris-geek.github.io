@@ -93,19 +93,38 @@
       <td style="padding:4px 8px;width:20%;vertical-align:bottom">
         <div class="one">
           <div class="two" id='omnieffects'>
-					  <img src='images/paper_VFX.mp4' width=100%>
-					</div>
-          <img src='images/paper_omnieffects.png' width=100%>
+            <!-- 使用 video 标签，并设置 muted、loop、preload -->
+            <video 
+              id="hoverVideo" 
+              width="100%" 
+              muted 
+              loop 
+              preload="auto"
+              style="display:block;">
+              <source src="images/paper_VFX.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+          <img src='images/paper_omnieffects.png' width="100%">
         </div>
+    
         <script type="text/javascript">
+          const video = document.getElementById('hoverVideo');
+    
           function omnieffects_start() {
             document.getElementById('omnieffects').style.opacity = "1";
+            // 尝试播放视频（静音视频通常允许自动播放）
+            video.play().catch(e => console.log("Play failed:", e));
           }
-
+    
           function omnieffects_stop() {
             document.getElementById('omnieffects').style.opacity = "0";
+            video.pause();
+            video.currentTime = 0; // 可选：重置到开头
           }
-          omnieffects_stop()
+    
+          // 初始化为隐藏
+          omnieffects_stop();
         </script>
       </td>
       <td style="padding:4px 8px;width:80%;vertical-align:top">
@@ -210,6 +229,42 @@
         <a href="https://doi.org/10.1016/j.bdes.2025.100004">paper</a>
         /
         <a href="https://github.com/fangyuanmao/EMAG2-Completion">code</a>
+      </td>
+    </tr>
+
+    <tr onmouseout="sea_stop()" onmouseover="sea_start()">
+      <td style="padding:4px 8px;width:20%;vertical-align:bottom">
+        <div class="one">
+          <div class="two" id='sea_image'>
+					  <img src='images/paper_SEA.png' width=100%>
+					</div>
+          <img src='images/paper_SEA.png' width=100%>
+        </div>
+        <script type="text/javascript">
+          function sea_start() {
+            document.getElementById('sea_image').style.opacity = "1";
+          }
+
+          function sea_stop() {
+            document.getElementById('sea_image').style.opacity = "0";
+          }
+          sea_stop()
+        </script>
+      </td>
+      <td style="padding:4px 8px;width:80%;vertical-align:top">
+        <a href="https://doi.org/10.1016/j.neunet.2026.108912">
+          <span class="papertitle">SEA: Hierarchically Searching Efficient Adapters for Pre-trained Models</span>
+        </a>
+        <br>
+        Shun Lu, <strong>Fangyuan Mao</strong>, Longxing Yang, Zihao Sun, Jilin Mei, Jianchao Tan, Chengru Song, Yu Hu
+        <br>
+        <em>Neural Network, 2026</em>
+        <br>
+        <a href="https://doi.org/10.1016/j.neunet.2026.108912">paper</a>
+        /
+        <a href="https://github.com/ShunLu91/SEA">code</a>
+        <img src="https://img.shields.io/github/stars/ShunLu91/SEA.svg" align="right" />
+      </td>
       </td>
     </tr>
 
@@ -460,40 +515,6 @@
         Xiaokun Feng, Jiashu Zhu, Meiqi Wu, Chubin Chen, <strong>Fangyuan Mao</strong>, Haiyang Guo, Jiahong Wu, Xiangxiang Chu, Kaiqi Huang
       </td>
     </tr>
-
-    <tr onmouseout="sea_stop()" onmouseover="sea_start()">
-      <td style="padding:4px 8px;width:20%;vertical-align:bottom">
-        <div class="one">
-          <div class="two" id='sea_image'>
-					  <img src='images/paper_SEA.png' width=100%>
-					</div>
-          <img src='images/paper_SEA.png' width=100%>
-        </div>
-        <script type="text/javascript">
-          function sea_start() {
-            document.getElementById('sea_image').style.opacity = "1";
-          }
-
-          function sea_stop() {
-            document.getElementById('sea_image').style.opacity = "0";
-          }
-          sea_stop()
-        </script>
-      </td>
-      <td style="padding:4px 8px;width:80%;vertical-align:top">
-        <a>
-          <span class="papertitle">SEA: Hierarchically Searching Efficient Adapters for Pre-trained Models</span>
-        </a>
-        <br>
-        Shun Lu, <strong>Fangyuan Mao</strong>, Longxing Yang, Zihao Sun, Jilin Mei, Jianchao Tan, Chengru Song, Yu Hu
-        <br>
-        <em>Neural Network under review</em>
-        <br>
-        <a href="https://github.com/ShunLu91/SEA">code</a>
-        <img src="https://img.shields.io/github/stars/ShunLu91/SEA.svg" align="right" />
-      </td>
-      </td>
-    </tr>
     
     </tbody></table>
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
@@ -504,7 +525,7 @@
             <ul>
               <li>Zhejiang Province Government Scholarship (Top 3%, 2020 and 2021)</li>
               <li>Yifangda Financial Technology Master's Award (Top 2%, 2025)</li>
-              <li>Outstanding graduate of Zhejiang University (2023)</li>
+              <li>Outstanding Graduate of Zhejiang University (2023)</li>
             </ul>
           </p>
         </td>
