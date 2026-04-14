@@ -44,36 +44,111 @@
             </tr>
 
           </tbody></table>
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          
+          <style>
+            .education-list { 
+              list-style-type: none; 
+              padding-left: 0; 
+            }
+            .education-item { 
+              display: flex; 
+              align-items: center; /* 关键：确保容器内元素垂直居中 */
+              margin-bottom: 15px; 
+              gap: 0px;
+            }
+            
+            /* 固定容器：强制所有校标处于统一大小的框内 */
+            .logo-box-1 {
+              width: 50px; 
+              height: 50px;
+              margin-right: 20px;
+              flex-shrink: 0; /* 防止容器被挤压 */
+              display: flex;
+              justify-content: center;
+              align-items: center;
+            }
+
+            .logo-box-2 {
+              width: 60px; 
+              height: 60px;
+              margin-right: 10px;
+              flex-shrink: 0; /* 防止容器被挤压 */
+              display: flex;
+              justify-content: center;
+              align-items: center;
+            }
+            
+            /* 图片样式：填充容器但不改变比例 */
+            .school-logo {
+              max-width: 100%;
+              max-height: 100%;
+              object-fit: contain; /* 保证图片比例缩放，不会变形 */
+            }
+          </style>
+
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
               <tr>
-              <td style="padding:4px 8px;width:100%;vertical-align:middle">
-                <h2>Education</h2>
-                <p>
-                  <ul>
-                    <!-- <li>Incoming Phd student @ <a href="https://mmlab.ie.cuhk.edu.hk/people.html">MMlab</a>, <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology (HKUST)</a>, 2026.09-Now. -->
-                      <!-- Supervisors: <a href="https://yunyasong.github.io/">Prof. Celine Yunya Song</a> and <a href="https://anyirao.com/">Prof. Anyi Rao</a></li> -->
-                    <li>M.S @ <a href="http://www.ict.cas.cn">Institute of Computeing Technology</a>, <a href="https://www.cas.cn">Chinese Academy of Sciences</a>, 2023.09-2026.06. Supervisors: <a href="https://people.ucas.edu.cn/~huyu">Prof. Yu Hu</a> and <a href="https://scholar.google.com/citations?user=WOQhmr8AAAAJ&hl=en">Prof. Jilin Mei</a></li>
-                    <li>B.S @ <a href="https://www.zju.edu.cn/">Zhejiang University</a>, 2019.09-2023.06.
-                    Supervisors: <a href="https://person.zju.edu.cn/boyang">Prof. Bo Yang</a> and <a href="https://person.zju.edu.cn/xyx/759477.html">Prof. Yixian Xu</a></li>
+                <td style="padding:4px 8px;width:100%;vertical-align:middle">
+                  <h2>Education</h2>
+                  <ul class="education-list">
+                    <!-- <li class="education-item">
+                      <div class="logo-box-1">
+                        <img src="images/hkust-logo.svg" alt="HKUST" class="school-logo">
+                      </div>
+                      <span>Incoming Phd student @ <a href="https://mmlab-hkust.github.io/">MMlab</a>, <a href="https://hkust-mirc.github.io/">Media Intelligence Research Center</a>, <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology (HKUST)</a>, 2026.09-Now. 
+                        Supervisors: <a href="https://yunyasong.github.io/">Prof. Celine Yunya Song</a> and <a href="https://anyirao.com/">Prof. Anyi Rao</a></span>
+                    </li> -->
+                    <li class="education-item">
+                      <div class="logo-box-1">
+                        <img src="images/cas-logo.png" alt="CAS" class="school-logo">
+                      </div>
+                      <span>M.S @ <a href="http://www.ict.cas.cn">Institute of Computing Technology</a>, <a href="https://www.cas.cn">Chinese Academy of Sciences</a>, 2023.09-2026.06. Supervisors: <a href="https://people.ucas.edu.cn/~huyu">Prof. Yu Hu</a> and <a href="https://scholar.google.com/citations?user=WOQhmr8AAAAJ&hl=en">Prof. Jilin Mei</a></span>
+                    </li>
+                    <li class="education-item">
+                      <div class="logo-box-1">
+                        <img src="images/zju-logo.png" alt="ZJU" class="school-logo">
+                      </div>
+                      <span>B.S @ <a href="https://www.zju.edu.cn/">Zhejiang University</a>, 2019.09-2023.06. Supervisors: <a href="https://person.zju.edu.cn/boyang">Prof. Bo Yang</a> and <a href="https://person.zju.edu.cn/xyx/759477.html">Prof. Yixian Xu</a></span>
+                    </li>
                   </ul>
-                </p>
-              </td>
-            </tr>
-          </tbody></table>
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+
+
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
               <tr>
-              <td style="padding:4px 8px;width:100%;vertical-align:middle">
-                <h2>Internship</h2>
-                <p>
-                  <ul>
-                    <li>Research Intern working on Kling AI Infra at <a href="https://klingai.com/global/">Kling@Kuaishou</a>, 2025.12-2026.03. Mentor: <a href="https://scholar.google.com/citations?user=-zX83WMAAAAJ&hl=en">Shun Lu</a>.</li>
-                    <li>Research Intern working on Video Generation at <a href="https://github.com/AMAP-ML">AMAP@Alibaba</a>, 2025.04-2025.10. Mentors: <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ">Xiangxiang Chu</a> and <a href="https://scholar.google.com/citations?hl=en&user=zCljkooAAAAJ">Jiahong Wu</a>.</li>
-                    <li>Research Intern working on model compression at <a href="https://www.vipazoo.cn/">VIPA@ZJU</a>, 2022.01-2022.06. Supervisors: <a href="https://scholar.google.com/citations?user=7oLbhAwAAAAJ&hl=en">Mingli Song</a> and <a href="https://person.zju.edu.cn/fengzunlei">Zunlei Feng</a>.</li>
+                <td style="padding:4px 8px;width:100%;vertical-align:middle">
+                  <h2>Internship</h2>
+                  <ul class="education-list">
+                    <li class="education-item">
+                      <div class="logo-box-2">
+                        <img src="images/kling-logo.png" alt="Kling" class="school-logo">
+                      </div>
+                      <span>Research Intern working on Kling AI Infra at <a href="https://klingai.com/global/">Kling@Kuaishou</a>, 2025.12-2026.03. Mentor: <a href="https://scholar.google.com/citations?user=-zX83WMAAAAJ&hl=en">Shun Lu</a>.</span>
+                    </li>
+                    <li class="education-item">
+                      <div class="logo-box-2">
+                        <img src="images/alibaba-logo.png" alt="ICT" class="school-logo">
+                      </div>
+                      <span>Research Intern working on Video Generation at <a href="https://github.com/AMAP-ML">AMAP@Alibaba</a>, 2025.04-2025.10. Mentors: <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ">Xiangxiang Chu</a> and <a href="https://scholar.google.com/citations?hl=en&user=zCljkooAAAAJ">Jiahong Wu</a>.</span>
+                    </li>
+                    <li class="education-item">
+                      <div class="logo-box-2">
+                        <img src="images/vipa-logo.png" alt="ZJU" class="school-logo">
+                      </div>
+                      <span>Research Intern working on model compression at <a href="https://www.vipazoo.cn/">VIPA@ZJU</a>, 2022.01-2022.06. Supervisors: <a href="https://scholar.google.com/citations?user=7oLbhAwAAAAJ&hl=en">Mingli Song</a> and <a href="https://person.zju.edu.cn/fengzunlei">Zunlei Feng</a>.</span>
+                    </li>
                   </ul>
-                </p>
-              </td>
-            </tr>
-          </tbody></table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+
+
           <table style="width:100%;border:0px;border-spacing:0px 0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
           </tbody></table>
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
