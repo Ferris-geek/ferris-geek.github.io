@@ -154,7 +154,7 @@
           </table>
 
           <script>
-            fetch('https://rsi-observatory.fymao.workers.dev/api/visits')
+            fetch('https://rsi.agihub.workers.dev/api/visits')
               .then(response => {
                 if (!response.ok) throw new Error('Counter unavailable');
                 return response.json();
