@@ -153,6 +153,40 @@
             </tbody>
           </table>
 
+          <script>
+            fetch('https://rsi-observatory.fymao.workers.dev/api/visits')
+              .then(response => {
+                if (!response.ok) throw new Error('Counter unavailable');
+                return response.json();
+              })
+              .then(data => {
+                document.getElementById('rsi-visits').textContent =
+                  Number(data.total).toLocaleString('en-GB');
+              })
+              .catch(() => {});
+          </script>
+          
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr>
+                <td style="padding:4px 8px;width:100%;vertical-align:middle">
+                  <h2>Projects</h2>
+                  <ul class="education-list">
+                    <li class="education-item">
+                      <div class="logo-box-2">
+                        <img src="images/RSI-logo.png" alt="Huawei" class="school-logo">
+                      </div>
+                      <span>
+                      <a href="https://rsi-observatory.fymao.workers.dev/" target="_blank" rel="noopener noreferrer">
+                        RSI (Recursive Self-Improvement) Observatory
+                      </a>: Updated daily with the latest research on recursive self-improvement. Visits count: <span id="rsi-visits">—</span>
+                    </span>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
+          </table>
 
           <table style="width:100%;border:0px;border-spacing:0px 0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
           </tbody></table>
@@ -561,16 +595,18 @@
       </td>
     </tr>
 
-  </tbody></table>
+  </tbody>
+  </table>
 
-  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tbody>
       <tr>
       <td style="padding:4px 8px;width:100%;vertical-align:middle">
         <h2>Preprints</h2>
       </td>
     </tr>
-  </tbody>
-</table>
+    </tbody>
+  </table>
   <table style="width:100%;border:0px;border-spacing:0px 0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
 
@@ -608,45 +644,6 @@
         <img src="https://img.shields.io/github/stars/fangyuanmao/UNIV.svg" align="right" />
       </td>
     </tr>
-    </tbody>
-  </table>
-
-  <script>
-    fetch('https://rsi-observatory.fymao.workers.dev/api/visits')
-      .then(response => {
-        if (!response.ok) throw new Error('Counter unavailable');
-        return response.json();
-      })
-      .then(data => {
-        document.getElementById('rsi-visits').textContent =
-          Number(data.total).toLocaleString('en-GB');
-      })
-      .catch(() => {});
-  </script>
-  
-  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-    <tbody>
-      <tr>
-        <td style="padding:4px 8px;width:100%;vertical-align:middle">
-          <h2>Projects</h2>
-          <ul class="education-list">
-            <li class="education-item">
-              <div class="logo-box-2">
-                <img src="images/RSI-logo.png" alt="Huawei" class="school-logo">
-              </div>
-              <span>
-              <a href="https://rsi-observatory.fymao.workers.dev/" target="_blank" rel="noopener noreferrer">
-                RSI (Recursive Self-Improvement) Observatory
-              </a>: Updated daily with the latest research on recursive self-improvement.
-              <p>
-                Visits count:
-                <span id="rsi-visits">—</span>
-              </p> 
-            </span>
-            </li>
-          </ul>
-        </td>
-      </tr>
     </tbody>
   </table>
 
